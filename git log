@@ -1,0 +1,23 @@
+[33mcommit e496d3ab9d999356ce7b846f88eaf10ea379b43f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Владимир Дворянкин <biggibrus@gmail.com>
+Date:   Tue Nov 2 17:46:51 2021 +0300
+
+    Added HTML header
+
+[33mcommit 8592174d60da82188494e6d5c08455dcf162f219[m
+Author: Владимир Дворянкин <biggibrus@gmail.com>
+Date:   Tue Nov 2 17:44:53 2021 +0300
+
+    Added standard HTML page tags
+
+[33mcommit e40906af6be14c7b7ee605360fd668fed633b58e[m
+Author: Владимир Дворянкин <biggibrus@gmail.com>
+Date:   Tue Nov 2 17:39:31 2021 +0300
+
+    added h1 tag
+
+[33mcommit 26e764616d590230033ecb456d969d42cdb98970[m
+Author: Владимир Дворянкин <biggibrus@gmail.com>
+Date:   Tue Nov 2 17:31:19 2021 +0300
+
+    First Commit
